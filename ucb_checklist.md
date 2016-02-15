@@ -27,7 +27,7 @@ All manuscripts must be submitted electronically in a traditional PDF format.
 
 ### Margins: For the manuscript material, including headers, footers, tables, illustrations, and photographs, all margins must be at least 1 inch from the edges of the paper. Page numbers must be ¾ of an inch from the edge.
 
-- [ ] Spacing: Your manuscript must be single-spaced throughout, including the abstract, dedication, acknowledgments, and introduction.
+- [x] Spacing: Your manuscript must be single-spaced throughout, including the abstract, dedication, acknowledgments, and introduction.
 - [ ] Tables, charts, and graphs may be presented horizontally or vertically and must fit within the required margins. Labels or symbols are preferred rather than colors for identifying lines on a graph.
 - [ ] You may choose to reduce the size of a page to fit within the required margins, but be sure that the resulting page is clear and legible.
 
@@ -38,7 +38,7 @@ Guidelines for Mixed Media: please see Appendix B for details.
 Certain pages need to be formatted in a very specific way. Links are included here for examples of these pages.
 
 - Abstract (PDF)
-  - [ ] As noted in the above section on pagination, the abstract must be numbered separately with arabic numerals starting with ’1′
+  - [x] As noted in the above section on pagination, the abstract must be numbered separately with arabic numerals starting with ’1′
 - Signature Page (PDF)
   - [ ] The signature page must not contain any page numbers or extra notations beyond what is shown in the sample.
   - [ ] Doctoral students can print the signature page on regular paper. Archival paper is not required. However, all signatures must be authentic (no stamps, electronic signatures, cut-and-paste, etc.) and must all appear on a single page.
