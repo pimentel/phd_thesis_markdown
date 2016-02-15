@@ -170,7 +170,11 @@ $endfor$
 $if(toc)$
 {
 \hypersetup{linkcolor=black}
+\clearpage
+\pagenumbering{roman}
+%\setcounter{page}{4}
 \setcounter{tocdepth}{$toc-depth$}
+\pagenumbering{roman}
 \tableofcontents
 }
 $endif$
