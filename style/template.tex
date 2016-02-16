@@ -62,7 +62,9 @@ $if(geometry)$
 $endif$
 $if(natbib)$
 \usepackage{natbib}
-\bibliographystyle{$if(biblio-style)$$biblio-style$$else$plainnat$endif$}
+%\bibliographystyle{$if(biblio-style)$$biblio-style$$else$plainnat$endif$}
+%\bibliographystyle{$if(biblio-style)$$biblio-style$$else$plainnat$endif$}
+\bibliographystyle{abbrv}
 $endif$
 $if(biblatex)$
 \usepackage{biblatex}

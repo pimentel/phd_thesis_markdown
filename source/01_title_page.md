@@ -13,7 +13,7 @@ This is the Latex-heavy title page.
         \vfill
         by
 
-        Harold J. Pimentel
+        Harold Joseph Pimentel
 
         %\vspace{1.5cm}
         \vfill

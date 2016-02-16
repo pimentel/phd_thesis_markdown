@@ -44,11 +44,11 @@ Certain pages need to be formatted in a very specific way. Links are included he
   - [ ] Doctoral students can print the signature page on regular paper. Archival paper is not required. However, all signatures must be authentic (no stamps, electronic signatures, cut-and-paste, etc.) and must all appear on a single page.
   - [ ] The name and title listed in the sample is for illustrative purposes only, you must include your name andyour title.
 - Title Page (PDF)
-  - [ ] The title page does not contain page numbers.
-  - [ ] The term and year listed on the title page must be the term of your degree. If you filed during the summer, write Summer.
-  - [ ] The yellow bubbles in the sample are included for explanatory purposes only. Do not include them in your submission.
-  - [ ] If you have a Designated Emphasis, it must be listed on your title page (DE Title Page Sample)
-  - [ ] If you are receiving a joint degree, it must be listed on your title page (Joint Title Page Sample)
+  - [x] The title page does not contain page numbers.
+  - [x] The term and year listed on the title page must be the term of your degree. If you filed during the summer, write Summer.
+  - [x] The yellow bubbles in the sample are included for explanatory purposes only. Do not include them in your submission.
+  - [x] If you have a Designated Emphasis, it must be listed on your title page (DE Title Page Sample)
+  - [x] If you are receiving a joint degree, it must be listed on your title page (Joint Title Page Sample)
 
 ## Organizing your manuscript
 

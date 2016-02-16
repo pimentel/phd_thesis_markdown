@@ -37,6 +37,7 @@ pdf:
 	-N \
 	--latex-engine=xelatex
 
+
 tex:
 	pandoc "$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/thesis.tex" \

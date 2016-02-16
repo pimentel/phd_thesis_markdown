@@ -1,2 +1,3 @@
+\addcontentsline{toc}{chapter}{Contents}
 
 \tableofcontents

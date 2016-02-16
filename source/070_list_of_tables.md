@@ -1,0 +1,5 @@
+\newpage
+
+\addcontentsline{toc}{chapter}{List of Tables}
+
+\listoftables

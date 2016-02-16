@@ -1,5 +1,3 @@
-<!-- # Abstract {.unnumbered} -->
-
 \begin{center}
 \textbf{Abstract}
 \vspace{1cm}
@@ -8,7 +6,7 @@ The Title Goes Here
 
 by
 
-Harold J. Pimentel
+Harold Joseph Pimentel
 
 Doctor of Philosophy in Computer Science \\
 and the Designated Emphasis in \\
