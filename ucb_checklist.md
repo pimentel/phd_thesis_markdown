@@ -54,17 +54,17 @@ Certain pages need to be formatted in a very specific way. Links are included he
 
 The proper organization and page order for your manuscript is as follows:
 
-- [ ] Title Page
-- [ ] Copyright page or a blank page
-- [ ] Abstract
+- [x] Title Page
+- [x] Copyright page or a blank page
+- [x] Abstract
 Optional preliminary pages such as:
-  - [ ] Dedication page
-  - [ ] Table of contents
-  - [ ] List of figures, list of tables, list of symbols
+  - [x] Dedication page
+  - [x] Table of contents
+  - [x] List of figures, list of tables, list of symbols
   - [ ] Preface or introduction
-  - [ ] Acknowledgements
+  - [x] Acknowledgements
   - [ ] Curriculum Vitae
-- [ ] Main text
+- [x] Main text
 - [ ] References
 - [ ] Bibliography
 - [ ] Appendices
